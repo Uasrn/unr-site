@@ -12,3 +12,4 @@ IMPORTANT :
 4. Aucun nom complet, adresse, établissement scolaire, numéro de téléphone ou courriel personnel n'est publié.
 5. Avant une mise en ligne publique, faites relire les mentions légales, la politique de confidentialité et le statut juridique avec un adulte de confiance.
 6. Pour être indexé, il faudra publier le site sur un hébergeur, utiliser un domaine, ajouter un sitemap.xml, puis déclarer le domaine dans Google Search Console. L'indexation n'est jamais garantie ni immédiate.
+Préparation du déploiement du site avec GitHub Pages.
