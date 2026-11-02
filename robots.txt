@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+# Ajouter ici le sitemap après attribution d'un nom de domaine.
